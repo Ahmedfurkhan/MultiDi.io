@@ -51,44 +51,43 @@ Then open the respective notebook files to explore the implementation details.
 ## Implementation Details
 ### Basic Visualizations on Real-World or Augmented Data
 #### Diabetes Prediction:
-Histogram: Display the distribution of glucose levels.
-Box Plot: Show the distribution of age.
-Scatter Plot: Illustrate the relationship between BMI and glucose levels.
+1.Histogram: Display the distribution of glucose levels.
+2.Box Plot: Show the distribution of age.
+3.Scatter Plot: Illustrate the relationship between BMI and glucose levels.
 #### Heart Disease Prediction:
-Histogram: Display the distribution of cholesterol levels.
-Box Plot: Show the distribution of resting blood pressure.
-Scatter Plot: Illustrate the relationship between maximum heart rate and age.
+1.Histogram: Display the distribution of cholesterol levels.
+2.Box Plot: Show the distribution of resting blood pressure.
+3.Scatter Plot: Illustrate the relationship between maximum heart rate and age.
 #### Parkinson's Disease Prediction:
-Histogram: Display the distribution of MDVP
-(Hz).
-Box Plot: Show the distribution of spread1.
-Scatter Plot: Illustrate the relationship between PPE and RPDE.
+1.Histogram: Display the distribution of MDVP(Hz).
+2.Box Plot: Show the distribution of spread1.
+3.Scatter Plot: Illustrate the relationship between PPE and RPDE.
 ### Simple Exploratory Data Analysis (EDA)
 #### Diabetes Prediction:
-Descriptive statistics for features like age, BMI, glucose, and insulin levels.
-Correlation matrix to identify relationships between features.
+1.Descriptive statistics for features like age, BMI, glucose, and insulin levels.
+2.Correlation matrix to identify relationships between features.
 #### Heart Disease Prediction:
-Descriptive statistics for features like age, cholesterol, resting blood pressure, and maximum heart rate.
-Correlation matrix to identify relationships between features.
+1.Descriptive statistics for features like age, cholesterol, resting blood pressure, and maximum heart rate.
+2.Correlation matrix to identify relationships between features.
 #### Parkinson's Disease Prediction:
-Descriptive statistics for features like MDVP
-(Hz), MDVP
-(%), spread1, and PPE.
-Correlation matrix to identify relationships between features.
+Descriptive statistics for features like MDVP \n
+(Hz), MDVP\n
+(%), spread1, and PPE.\n
+Correlation matrix to identify relationships between features.\n
 ### Machine Learning Modeling
 #### Diabetes Prediction:
-Model: Support Vector Machine (SVM).
-Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-Save and load the trained model for future predictions.
+1.Model: Support Vector Machine (SVM).
+2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
+3.Save and load the trained model for future predictions.
 #### Heart Disease Prediction:
-Model: Logistic Regression.
-Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-Save and load the trained model for future predictions.
+1.Model: Logistic Regression.
+2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
+3.Save and load the trained model for future predictions.
 #### Parkinson's Disease Prediction:
-Model: XGBoost.
-Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-Save and load the trained model for future predictions.
+1.Model: XGBoost.
+2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
+3.Save and load the trained model for future predictions.
 # Live Demo 
-##### [MultiDi.io](https://www.render.com)
+##### [MultiDi.io](https://multidi.streamlit.app/)
 ##### [MultiDiFeyyn.com](https://www.youtube.com/watch?v=B9synWjqBn8&list=RDwagn8Wrmzuc&index=14)
 
