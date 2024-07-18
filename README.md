@@ -48,44 +48,44 @@ bash
 jupyter notebook
 Then open the respective notebook files to explore the implementation details.
 
-##Implementation Details
-###Basic Visualizations on Real-World or Augmented Data
-####Diabetes Prediction:
+## Implementation Details
+### Basic Visualizations on Real-World or Augmented Data
+#### Diabetes Prediction:
 Histogram: Display the distribution of glucose levels.
 Box Plot: Show the distribution of age.
 Scatter Plot: Illustrate the relationship between BMI and glucose levels.
-####Heart Disease Prediction:
+#### Heart Disease Prediction:
 Histogram: Display the distribution of cholesterol levels.
 Box Plot: Show the distribution of resting blood pressure.
 Scatter Plot: Illustrate the relationship between maximum heart rate and age.
-####Parkinson's Disease Prediction:
+#### Parkinson's Disease Prediction:
 Histogram: Display the distribution of MDVP
 (Hz).
 Box Plot: Show the distribution of spread1.
 Scatter Plot: Illustrate the relationship between PPE and RPDE.
-###Simple Exploratory Data Analysis (EDA)
-####Diabetes Prediction:
+### Simple Exploratory Data Analysis (EDA)
+#### Diabetes Prediction:
 Descriptive statistics for features like age, BMI, glucose, and insulin levels.
 Correlation matrix to identify relationships between features.
-####Heart Disease Prediction:
+#### Heart Disease Prediction:
 Descriptive statistics for features like age, cholesterol, resting blood pressure, and maximum heart rate.
 Correlation matrix to identify relationships between features.
-####Parkinson's Disease Prediction:
+#### Parkinson's Disease Prediction:
 Descriptive statistics for features like MDVP
 (Hz), MDVP
 (%), spread1, and PPE.
 Correlation matrix to identify relationships between features.
-###Machine Learning Modeling
-####Diabetes Prediction:
+### Machine Learning Modeling
+#### Diabetes Prediction:
 Model: Support Vector Machine (SVM).
 Evaluate using metrics such as accuracy, precision, recall, and F1-score.
 Save and load the trained model for future predictions.
-####Heart Disease Prediction:
+#### Heart Disease Prediction:
 Model: Logistic Regression.
 Evaluate using metrics such as accuracy, precision, recall, and F1-score.
 Save and load the trained model for future predictions.
-####Parkinson's Disease Prediction:
+#### Parkinson's Disease Prediction:
 Model: XGBoost.
 Evaluate using metrics such as accuracy, precision, recall, and F1-score.
 Save and load the trained model for future predictions.
-#Live Demo [h.com](https://www.youtube.com/watch?v=B9synWjqBn8&list=RDwagn8Wrmzuc&index=14)
+# Live Demo [MultiDiFeyyn.com](https://www.youtube.com/watch?v=B9synWjqBn8&list=RDwagn8Wrmzuc&index=14)
