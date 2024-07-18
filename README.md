@@ -44,9 +44,3 @@ To run the notebooks, navigate to the project directory and start Jupyter Notebo
 bash
 jupyter notebook
 Then open the respective notebook files to explore the implementation details.
-
-
-# Live Demo 
-##### [MultiDi.io](https://multidi.streamlit.app/)
-##### [MultiDiFeyyn.com](https://www.youtube.com/watch?v=B9synWjqBn8&list=RDwagn8Wrmzuc&index=14)
-
