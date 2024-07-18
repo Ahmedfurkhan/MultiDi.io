@@ -8,9 +8,6 @@ The MultiDi: AI-Driven Disease Prevention and Management Platform (AIDPM) is a c
 2. [Installation](#installation)
 3. [Running the Streamlit App](#running-the-streamlit-app)
 4. [Jupyter Notebooks](#jupyter-notebooks)
-5. [Implementation Details](#implementation-details)
-6. [License](#license)
-
 ## Overview
 
 MultiDi aims to address significant health challenges by providing an AI-powered solution that offers predictive analytics, personalized recommendations, and continuous health monitoring to effectively prevent and manage diseases such as diabetes, heart disease, and Parkinson's disease.
@@ -48,45 +45,7 @@ bash
 jupyter notebook
 Then open the respective notebook files to explore the implementation details.
 
-## Implementation Details
-### Basic Visualizations on Real-World or Augmented Data
-**Diabetes Prediction:**
-1.Histogram: Display the distribution of glucose levels.
-2.Box Plot: Show the distribution of age.
-3.Scatter Plot: Illustrate the relationship between BMI and glucose levels.
-**Heart Disease Prediction:**
-1.Histogram: Display the distribution of cholesterol levels.
-2.Box Plot: Show the distribution of resting blood pressure.
-3.Scatter Plot: Illustrate the relationship between maximum heart rate and age.
-**Parkinson's Disease Prediction:**
-1.Histogram: Display the distribution of MDVP(Hz).
-2.Box Plot: Show the distribution of spread1.
-3.Scatter Plot: Illustrate the relationship between PPE and RPDE.
-### Simple Exploratory Data Analysis (EDA)
-**Diabetes Prediction:**
-1.Descriptive statistics for features like age, BMI, glucose, and insulin levels.
-2.Correlation matrix to identify relationships between features.
-**Heart Disease Prediction:**
-1.Descriptive statistics for features like age, cholesterol, resting blood pressure, and maximum heart rate.
-2.Correlation matrix to identify relationships between features.
-**Parkinson's Disease Prediction:**
-1.Descriptive statistics for features like MDVP \n
-(Hz), MDVP\n
-(%), spread1, and PPE.
-2.Correlation matrix to identify relationships between features.
-### Machine Learning Modeling
-**Diabetes Prediction:**
-1.Model: Support Vector Machine (SVM).
-2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-3.Save and load the trained model for future predictions.
-**Heart Disease Prediction:**
-1.Model: Logistic Regression.
-2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-3.Save and load the trained model for future predictions.
-**Parkinson's Disease Prediction:**
-1.Model: XGBoost.
-2.Evaluate using metrics such as accuracy, precision, recall, and F1-score.
-3.Save and load the trained model for future predictions.
+
 # Live Demo 
 ##### [MultiDi.io](https://multidi.streamlit.app/)
 ##### [MultiDiFeyyn.com](https://www.youtube.com/watch?v=B9synWjqBn8&list=RDwagn8Wrmzuc&index=14)
